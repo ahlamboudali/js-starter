@@ -1,10 +1,10 @@
-# Project name
-Build a counter 
+# Build a counter
+ 
 > Create a basic JavaScript counter that increments or decrements with button clicks.
 
 ## Table of contents
 
-- [Project name](#project-name)
+- [Build a counter](#build-a-counter)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
