@@ -1,23 +1,26 @@
 # Project name
-
-> Project definition
+Build a counter 
+> Create a basic JavaScript counter that increments or decrements with button clicks.
 
 ## Table of contents
 
-- [General info](#general-info)
-- [Screenshots](#screenshots)
-- [Technologies](#technologies)
-- [Setup](#setup)
-- [Features](#features)
-- [Status](#status)
-- [Inspiration](#inspiration)
-- [Contact](#contact)
+- [Project name](#project-name)
+  - [Table of contents](#table-of-contents)
+  - [General info](#general-info)
+  - [Screenshots](#screenshots)
+  - [Technologies](#technologies)
+  - [Setup](#setup)
+  - [Code Examples](#code-examples)
+  - [Features](#features)
+  - [Status](#status)
+  - [Inspiration](#inspiration)
+  - [Contact](#contact)
 
 ## General info
 
 ## Screenshots
 
-![Example screenshot]()
+![Example screenshot](./img/Capture%20.png)
 
 ## Technologies
 
@@ -55,4 +58,4 @@ Project is: _in progress_
 
 ## Contact
 
-By [@Your-Name]()
+By [@Ahlam]()
